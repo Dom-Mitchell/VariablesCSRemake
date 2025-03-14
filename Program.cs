@@ -6,7 +6,9 @@ namespace VariablesCSRemake
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Welcome to C#");
+      // Declare a variable to hold the number of cups of coffee
+      // that you drink in a day.
+      var numberOfCupsOfCoffee = 3;
     }
   }
 }
