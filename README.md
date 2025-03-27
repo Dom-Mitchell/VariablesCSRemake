@@ -1,6 +1,6 @@
 # VariablesCSRemake
 
-The goal of this assignment was to demonstrate use of Variables within a console app using C# given 3 difficulty levels.
+The goal of this assignment was to demonstrate use of Variables within a console app using C# given 3 difficulty levels, Explorer, Adventure and Epic Mode. **Note**: Explorer Mode is the only required difficulty level.
 
 A link to the webpage assignment can be found in the section below this repository.
 
